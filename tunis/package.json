@@ -1,6 +1,7 @@
 {
   "name": "tunis",
   "version": "2.2.1",
+  "homepage": "https://andresam321.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
@@ -21,8 +22,7 @@
     "react-toastify": "^9.0.5",
     "react-transition-group": "^4.4.2",
     "slick-carousel": "^1.8.1",
-    "web-vitals": "^1.0.1",
-    "homepage": "https://andresam321.github.io"
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages build"
+    "deploy": "gh-pages run build"
   },
   "eslintConfig": {
     "extends": [
