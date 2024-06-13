@@ -12,6 +12,7 @@ const AllRoutes = () => {
     <>
       <ContextProvider>
         <ScrollTopBehaviour />
+        {/* <Route basename={process.env.PUBLIC_URL}></Route> */}
         <Routes>
           {/* <Route path="/" element={<Preview />} /> */}
           <Route path="/" element={<HomeDark />} />
