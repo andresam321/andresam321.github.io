@@ -1,7 +1,6 @@
 {
   "name": "tunis",
   "version": "2.2.1",
-  "homepage": "https://andresam321.github.io/andresam321.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
@@ -24,8 +23,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -50,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
     "sass": "^1.52.2"
   }
 }
