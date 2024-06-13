@@ -21,7 +21,7 @@
     "react-transition-group": "^4.4.2",
     "slick-carousel": "^1.8.1",
     "web-vitals": "^1.0.1",
-    "homepage": "https://github.com/andresam321/andresam321.github.io"
+    "homepage": "https://github.com/andresam321/tunis"
   },
   "scripts": {
     "start": "react-scripts start",
