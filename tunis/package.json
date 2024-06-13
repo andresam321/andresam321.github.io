@@ -1,7 +1,7 @@
 {
   "name": "tunis",
   "version": "2.2.1",
-  "homepage": "https://andresam321.github.io",
+  "homepage": "https://andresam321.github.io/andresam321.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
