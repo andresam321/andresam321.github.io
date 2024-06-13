@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andresam321.github.io/static/css/main.9abb92ac.css",
-    "main.js": "/andresam321.github.io/static/js/main.46427a1f.js",
+    "main.js": "/andresam321.github.io/static/js/main.1a13d36a.js",
     "static/js/206.c7ebfab1.chunk.js": "/andresam321.github.io/static/js/206.c7ebfab1.chunk.js",
     "static/media/video.mp4": "/andresam321.github.io/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/andresam321.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.9abb92ac.css",
-    "static/js/main.46427a1f.js"
+    "static/js/main.1a13d36a.js"
   ]
 }
