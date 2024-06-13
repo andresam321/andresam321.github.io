@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^12.1.10",
     "aos": "^2.3.4",
     "bootstrap": "^5.1.3",
+    "gh-pages": "^6.1.1",
     "react": "^18.1.0",
     "react-animated-cursor": "^2.5.1",
     "react-dom": "^18.1.0",
@@ -20,13 +21,16 @@
     "react-toastify": "^9.0.5",
     "react-transition-group": "^4.4.2",
     "slick-carousel": "^1.8.1",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "homepage": "https://andresam321.github.io/andresam321.github.io"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages build"
   },
   "eslintConfig": {
     "extends": [
