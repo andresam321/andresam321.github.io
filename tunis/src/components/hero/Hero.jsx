@@ -8,7 +8,7 @@ import Index from "../../components/about/index";
 const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
-  heroTitleName: "steve milner",
+  heroTitleName: "AA milner",
   heroDesignation: "web designer",
   heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
   crafting clean & user‑friendly experiences, I am passionate about
