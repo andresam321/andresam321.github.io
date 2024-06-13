@@ -3,7 +3,7 @@ import Modal from "react-modal";
 import heroImg from "../../assets/img/hero/dark.jpg";
 import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
 import cancelImg from "../../assets/img/cancel.svg";
-import Index from "../../components/about/index";
+import Index from "../about/index";
 
 const heroContent = {
   heroImage: heroImg,
