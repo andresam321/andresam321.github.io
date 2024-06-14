@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/andresam321.github.io/static/css/main.9abb92ac.css",
-    "main.js": "/andresam321.github.io/static/js/main.1a13d36a.js",
-    "static/js/206.c7ebfab1.chunk.js": "/andresam321.github.io/static/js/206.c7ebfab1.chunk.js",
-    "static/media/video.mp4": "/andresam321.github.io/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/andresam321.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/andresam321.github.io/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/andresam321.github.io/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/404.jpg": "/andresam321.github.io/static/media/404.19e523cdb4d4a12db938.jpg",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/andresam321.github.io/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/andresam321.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/rtl.jpg": "/andresam321.github.io/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
-    "static/media/dark.jpg": "/andresam321.github.io/static/media/dark.c1cda9e0d5088e62fa77.jpg",
-    "static/media/cv.webp": "/andresam321.github.io/static/media/cv.174d8bc4469f8aa7c5fa.webp",
-    "static/media/slick.svg": "/andresam321.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/andresam321.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/andresam321.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/cancel.svg": "/andresam321.github.io/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
-    "static/media/quote.svg": "/andresam321.github.io/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
-    "static/media/slick.woff": "/andresam321.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/andresam321.github.io/index.html"
+    "main.css": "/static/css/main.82af6b9d.css",
+    "main.js": "/static/js/main.1de4fab1.js",
+    "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
+    "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/404.jpg": "/static/media/404.19e523cdb4d4a12db938.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/rtl.jpg": "/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
+    "static/media/dark.jpg": "/static/media/dark.c1cda9e0d5088e62fa77.jpg",
+    "static/media/cv.webp": "/static/media/cv.174d8bc4469f8aa7c5fa.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cancel.svg": "/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
+    "static/media/quote.svg": "/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.9abb92ac.css",
-    "static/js/main.1a13d36a.js"
+    "static/css/main.82af6b9d.css",
+    "static/js/main.1de4fab1.js"
   ]
 }
