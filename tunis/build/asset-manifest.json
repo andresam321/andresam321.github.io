@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.82af6b9d.css",
-    "main.js": "/static/js/main.c50a9096.js",
+    "main.css": "/static/css/main.e4c87e0d.css",
+    "main.js": "/static/js/main.c8bd8164.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -22,7 +22,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.82af6b9d.css",
-    "static/js/main.c50a9096.js"
+    "static/css/main.e4c87e0d.css",
+    "static/js/main.c8bd8164.js"
   ]
 }

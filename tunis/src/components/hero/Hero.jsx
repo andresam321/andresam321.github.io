@@ -8,12 +8,14 @@ import Index from "../../components/about/index";
 const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
-  heroTitleName: "AA milner",
-  heroDesignation: "web designer",
-  heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
-  crafting clean & user‑friendly experiences, I am passionate about
-  building excellent software that improves the lives of those
-  around me.`,
+  heroTitleName: "Andres Mercado",
+  heroDesignation: "Software Engineer",
+  heroDescriptions: `I am an American with a rich Mexican heritage, 
+  working as a dedicated full-stack web application developer. 
+  Born in the United States to Mexican parents, 
+  I embrace a blend of cultures that fuels my creativity and problem-solving skills. 
+  With expertise in front-end and back-end technologies, 
+  I thrive on turning complex challenges into elegant solutions.`,
   heroBtn: "more about me",
 };
 
