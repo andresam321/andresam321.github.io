@@ -1,14 +1,18 @@
 import React from "react";
 
 const skillsContent = [
-  { skillClass: "p25", skillPercent: "25", skillName: "HTML" },
-  { skillClass: "p89", skillPercent: "89", skillName: "JAVASCRIPT" },
-  { skillClass: "p70", skillPercent: "70", skillName: "CSS" },
-  { skillClass: "p66", skillPercent: "66", skillName: "PHP" },
-  { skillClass: "p95", skillPercent: "95", skillName: "WORDPRESS" },
-  { skillClass: "p50", skillPercent: "50", skillName: "JQUERY" },
-  { skillClass: "p65", skillPercent: "65", skillName: "ANGULAR" },
-  { skillClass: "p45", skillPercent: "45", skillName: "REACT" },
+  { skillClass: "p70", skillPercent: "70", skillName: "PYTHON" },
+  { skillClass: "p75", skillPercent: "75", skillName: "JAVASCRIPT" },
+  { skillClass: "p79", skillPercent: "79", skillName: "REACT + VITE" },
+  { skillClass: "p70", skillPercent: "70", skillName: "REDUX" },
+  { skillClass: "p68", skillPercent: "68", skillName: "POSTGRES" },
+  { skillClass: "p65", skillPercent: "65", skillName: "MYSQL" },
+  { skillClass: "p70", skillPercent: "70", skillName: "SQLite" },
+  { skillClass: "p45", skillPercent: "45", skillName: "MONGODB" },
+  { skillClass: "p60", skillPercent: "60", skillName: "AWS" },
+  { skillClass: "p84", skillPercent: "84", skillName: "GITHUB" },
+  { skillClass: "p85", skillPercent: "85", skillName: "POSTMAN" },
+  { skillClass: "p1", skillPercent: "1", skillName: "RUST" },
 ];
 
 const Skills = () => {

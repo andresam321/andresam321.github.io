@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.e4c87e0d.css",
-    "main.js": "/static/js/main.c8bd8164.js",
+    "main.js": "/static/js/main.fae7b849.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Andres_mercado_resume.jpg": "/static/media/Andres_mercado_resume.bf66d7eefab60c0c6ef3.jpg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/404.jpg": "/static/media/404.19e523cdb4d4a12db938.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/rtl.jpg": "/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
+    "static/media/1682276570170.jpeg": "/static/media/1682276570170.e8d56f4f1b21a98bc63b.jpeg",
     "static/media/dark.jpg": "/static/media/dark.c1cda9e0d5088e62fa77.jpg",
-    "static/media/cv.webp": "/static/media/cv.174d8bc4469f8aa7c5fa.webp",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -23,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.e4c87e0d.css",
-    "static/js/main.c8bd8164.js"
+    "static/js/main.fae7b849.js"
   ]
 }

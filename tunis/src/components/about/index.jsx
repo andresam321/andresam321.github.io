@@ -4,7 +4,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
-import cv from "../../assets/img/cv.webp";
+import cv from "../../assets/img/Andres_mercado_resume.jpg";
 import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
 
 const index = () => {
@@ -18,7 +18,7 @@ const index = () => {
             <div className="row">
               <div className="col-12">
                 <h3 className="text-uppercase custom-title mb-0 ft-wt-600">
-                  personal infos
+                  personal info
                 </h3>
               </div>
               {/* End .col */}
