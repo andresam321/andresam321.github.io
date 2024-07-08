@@ -2,26 +2,22 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   2018 - Present",
-    position: " Web Developer",
-    compnayName: "Envato",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    year: "   2024 - Present",
+    position: "Full-Stack Developer (SkyHighOps Aviation)",
+    compnayName: "Personal Project",
+    details: `Developed a web application to streamline aircraft management. 
+The system allows employees to efficiently assign and unassign planes from parking spots, 
+add and manage plane owners, and send fuel requests to line service technicians, 
+improving operational efficiency and organization.`,
   },
   {
-    year: "2013 - 2018",
-    position: " UI/UX Designer",
-    compnayName: "Themeforest",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
-  },
-  {
-    year: "2005 - 2013",
-    position: "Consultant",
-    compnayName: "Videohive",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
-  },
+    year: "2023 - 2024",
+    position: "Full-Stack Developer (Wuber Eats)",
+    compnayName: "Personal Project",
+    details: `Wuber Eats is a full-stack clone inspired by Uber Eats, 
+offering users the ability to explore a variety of restaurants, 
+create new restaurant listings, browse menus, add items to their cart, and leave reviews.`,
+  }
 ];
 
 const Experience = () => {

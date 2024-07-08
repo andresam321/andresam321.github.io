@@ -2,25 +2,29 @@ import React from "react";
 
 const educationContent = [
   {
-    year: "2015",
-    degree: "ENGINEERING DEGREE",
-    institute: "OXFORD UNIVERSITY",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    year: "2024",
+    course: "Software Engineer",
+    institute: "App Academy",
+    details: `App Academy is a well-known coding bootcamp that offers a 
+comprehensive software engineering program. The curriculum is designed to turn students 
+into full-stack developers within a short period. The program covers various topics, 
+including JavaScript, Python, SQL, HTML, CSS, and multiple frameworks. Students engage in 
+hands-on projects, pair programming, and real-world coding challenges. 
+The bootcamp emphasizes practical experience and job-ready skills, 
+preparing graduates like myself to enter the tech industry immediately.`,
   },
   {
-    year: "2012",
-    degree: "MASTER DEGREE",
-    institute: "KIEV UNIVERSITY",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
-  },
-  {
-    year: "2009",
-    degree: "BACHELOR DEGREE ",
-    institute: "TUNIS HIGH SCHOOL",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+    year: "2022",
+    course: "Software Engineer",
+    institute: "Coding Dojo",
+    details: `Coding Dojo is a global technology education company that offers 
+immersive coding bootcamps. Their software engineering program teaches 
+three full technology stacks, including MERN 
+(MongoDB, Express, React, Node.js), Python, and Java. 
+This approach gives students a well-rounded foundation in different programming languages and 
+frameworks. The bootcamp focuses on hands-on learning, algorithms, data structures, 
+and problem-solving skills. Graduates of Coding Dojo are well-prepared 
+to tackle complex coding tasks and contribute effectively in various tech roles.`,
   },
 ];
 
