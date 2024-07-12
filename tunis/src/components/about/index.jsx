@@ -4,7 +4,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
-import cv from "../../assets/img/Andres_mercado_resume.jpg";
+import cv from "../../assets/img/andresam_resume.pdf";
 import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
 
 const index = () => {
