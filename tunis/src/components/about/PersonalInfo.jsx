@@ -5,7 +5,7 @@ const personalInfoContent = [
   { meta: "last name", metaInfo: "Mercado" },
   { meta: "Age", metaInfo: "27 Years" },
   { meta: "Nationality", metaInfo: "American" },
-  { meta: "Job Seeker", metaInfo: "Sofware Engineer" },
+  { meta: "Job Seeker", metaInfo: "Software Engineer" },
   { meta: "Location", metaInfo: "San Francisco Bay Area" },
   { meta: "phone", metaInfo: "510-695-4124" },
   { meta: "Email", metaInfo: "andresam321@proton.me" },
