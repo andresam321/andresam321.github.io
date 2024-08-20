@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.58f70958.css",
-    "main.js": "/static/js/main.e086681d.js",
+    "main.css": "/static/css/main.851e7e77.css",
+    "main.js": "/static/js/main.6dd2adef.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
+    "static/media/plan_r_US_login.png": "/static/media/plan_r_US_login.92fce6f24224dfc068fe.png",
+    "static/media/wuber_eats_food_details.png": "/static/media/wuber_eats_food_details.f1c93a1bed9e8b13908d.png",
+    "static/media/skyhigh_login.png": "/static/media/skyhigh_login.5d93e8c7cbfc46e66afa.png",
+    "static/media/wuberEats.png": "/static/media/wuberEats.16c956a50a9a19394e8c.png",
     "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
+    "static/media/sky_wireframe.png": "/static/media/sky_wireframe.c729820f9240fd336ce4.png",
+    "static/media/skyhigh_homepage.png": "/static/media/skyhigh_homepage.c6de56d717c908272a46.png",
+    "static/media/skyhigh_parkingSpots.png": "/static/media/skyhigh_parkingSpots.e344382ea0a10cd05735.png",
+    "static/media/skyhigh_plane_Details.png": "/static/media/skyhigh_plane_Details.b3f2f02910809d447d35.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/skyhigh_fuel_order_List.png": "/static/media/skyhigh_fuel_order_List.ead7e9b4e8d6a480540a.png",
+    "static/media/skyhigh_orderfuel.png": "/static/media/skyhigh_orderfuel.d52df716fa99e9a3fdc0.png",
+    "static/media/skyhigh_weather.png": "/static/media/skyhigh_weather.dce7e679fea142e99e0f.png",
+    "static/media/skyhigh_relationships-11.png": "/static/media/skyhigh_relationships-11.c95dac94d3690d6b3cd5.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/404.jpg": "/static/media/404.19e523cdb4d4a12db938.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/andresam_resume.pdf": "/static/media/andresam_resume.c5cbdf1a5e3561110d14.pdf",
+    "static/media/AndresResume.pdf": "/static/media/AndresResume.169302b4657a3ca50db1.pdf",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/rtl.jpg": "/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
     "static/media/1682276570170.jpeg": "/static/media/1682276570170.e8d56f4f1b21a98bc63b.jpeg",
@@ -23,7 +35,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.58f70958.css",
-    "static/js/main.e086681d.js"
+    "static/css/main.851e7e77.css",
+    "static/js/main.6dd2adef.js"
   ]
 }

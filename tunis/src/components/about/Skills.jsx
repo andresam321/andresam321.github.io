@@ -1,18 +1,18 @@
 import React from "react";
 
 const skillsContent = [
-  { skillClass: "p80", skillPercent: "80", skillName: "PYTHON" },
-  { skillClass: "p83", skillPercent: "83", skillName: "JAVASCRIPT" },
-  { skillClass: "p81", skillPercent: "81", skillName: "REACT + VITE" },
-  { skillClass: "p80", skillPercent: "80", skillName: "REDUX" },
-  { skillClass: "p74", skillPercent: "74", skillName: "POSTGRES" },
-  { skillClass: "p70", skillPercent: "70", skillName: "MYSQL" },
-  { skillClass: "p73", skillPercent: "73", skillName: "SQLite" },
-  { skillClass: "p64", skillPercent: "64", skillName: "MONGODB" },
-  { skillClass: "p70", skillPercent: "70", skillName: "AWS" },
-  { skillClass: "p60", skillPercent: "60", skillName: "DOCKER" },
-  { skillClass: "p89", skillPercent: "89", skillName: "GITHUB" },
-  { skillClass: "p88", skillPercent: "88", skillName: "POSTMAN" }
+  { skillClass: "p80", skillPercent: "84", skillName: "PYTHON" },
+  { skillClass: "p83", skillPercent: "85", skillName: "JAVASCRIPT" },
+  { skillClass: "p81", skillPercent: "83", skillName: "REACT + VITE" },
+  { skillClass: "p80", skillPercent: "84", skillName: "REDUX" },
+  { skillClass: "p74", skillPercent: "77", skillName: "POSTGRES" },
+  { skillClass: "p70", skillPercent: "73", skillName: "MYSQL" },
+  { skillClass: "p73", skillPercent: "75", skillName: "SQLite" },
+  { skillClass: "p64", skillPercent: "65", skillName: "MONGODB" },
+  { skillClass: "p70", skillPercent: "72", skillName: "AWS" },
+  { skillClass: "p60", skillPercent: "62", skillName: "DOCKER" },
+  { skillClass: "p89", skillPercent: "90", skillName: "GITHUB" },
+  { skillClass: "p88", skillPercent: "90", skillName: "POSTMAN" }
 
 ];
 
