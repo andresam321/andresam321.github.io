@@ -49,7 +49,7 @@ const PortfolioData = [
         Target: "Families",
         language: "HTML, CSS, JS, Python, Flask, SQLite, Postgres, React, Redux, AWS, Docker",
         preview: "https://plan-r-us.onrender.com",
-        link: "https://res.cloudinary.com/djuzk5um3/image/upload/v1724176756/project_images/plan_r_US_login_pohfap.png",
+        link: "https://plan-r-us.onrender.com",
       },
     ],
   },

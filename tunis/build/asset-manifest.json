@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.851e7e77.css",
-    "main.js": "/static/js/main.6dd2adef.js",
+    "main.js": "/static/js/main.1866fcad.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/plan_r_US_login.png": "/static/media/plan_r_US_login.92fce6f24224dfc068fe.png",
     "static/media/wuber_eats_food_details.png": "/static/media/wuber_eats_food_details.f1c93a1bed9e8b13908d.png",
@@ -24,7 +24,7 @@
     "static/media/AndresResume.pdf": "/static/media/AndresResume.169302b4657a3ca50db1.pdf",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/rtl.jpg": "/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
-    "static/media/1682276570170.jpeg": "/static/media/1682276570170.e8d56f4f1b21a98bc63b.jpeg",
+    "static/media/am_pic.jpg": "/static/media/am_pic.e8d56f4f1b21a98bc63b.jpg",
     "static/media/dark.jpg": "/static/media/dark.c1cda9e0d5088e62fa77.jpg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.851e7e77.css",
-    "static/js/main.6dd2adef.js"
+    "static/js/main.1866fcad.js"
   ]
 }
