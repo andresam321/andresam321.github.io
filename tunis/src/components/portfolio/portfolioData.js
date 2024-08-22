@@ -11,13 +11,14 @@ import Image10 from "../../assets/img/portfolio/sky_wireframe.png";
 import Image11 from "../../assets/img/portfolio/skyhigh_login.png";
 import Image12 from "../../assets/img/portfolio/skyhigh_homepage.png";
 import Image13 from "../../assets/img/portfolio/skyhigh_weather.png";
-import Image14 from "../../assets/img/portfolio/skyhigh_parkingSpots.png";
-import Image15 from "../../assets/img/portfolio/skyhigh_plane_Details.png";
-import Image16 from "../../assets/img/portfolio/skyhigh_orderfuel.png";
+import Image14 from "../../assets/img/portfolio/011.png";
+import Image15 from "../../assets/img/portfolio/012.png";
+import Image16 from "../../assets/img/portfolio/014.png";
 import Image17 from "../../assets/img/portfolio/skyhigh_fuel_order_List.png";
 import Image18 from "../../assets/img/portfolio/plan_r_US_login.png";
 import Image19 from "../../assets/img/portfolio/wuberEats.png";
 import Image23 from "../../assets/img/portfolio/wuber_eats_food_details.png";
+import Image24 from "../../assets/img/portfolio/013.png";
 
 
 const PortfolioData = [
@@ -151,7 +152,7 @@ const PortfolioData = [
   },
       {
     id: 20,
-    type: "Real time weather 24hours",
+    type: "24 Hour Airport Weather",
     image: Image13,
     tag: ["logo"],
     delayAnimation: "0",
@@ -169,6 +170,22 @@ const PortfolioData = [
     id: 10,
     type: "Parking Spots",
     image: Image14,
+    tag: ["logo"],
+    delayAnimation: "0",
+    modalDetails: [
+      {
+        project: "Website",
+        Target: "Airports",
+        language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
+        preview: "https://skyhighops.onrender.com",
+        link: "https://skyhighops.onrender.com",
+      },
+    ],
+  },
+        {
+    id: 10,
+    type: "Aircraft Status",
+    image: Image24,
     tag: ["logo"],
     delayAnimation: "0",
     modalDetails: [

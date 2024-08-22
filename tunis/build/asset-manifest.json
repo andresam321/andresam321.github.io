@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.851e7e77.css",
-    "main.js": "/static/js/main.1866fcad.js",
+    "main.js": "/static/js/main.090e63f9.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/plan_r_US_login.png": "/static/media/plan_r_US_login.92fce6f24224dfc068fe.png",
     "static/media/wuber_eats_food_details.png": "/static/media/wuber_eats_food_details.f1c93a1bed9e8b13908d.png",
@@ -10,12 +10,13 @@
     "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/sky_wireframe.png": "/static/media/sky_wireframe.c729820f9240fd336ce4.png",
     "static/media/skyhigh_homepage.png": "/static/media/skyhigh_homepage.c6de56d717c908272a46.png",
-    "static/media/skyhigh_parkingSpots.png": "/static/media/skyhigh_parkingSpots.e344382ea0a10cd05735.png",
-    "static/media/skyhigh_plane_Details.png": "/static/media/skyhigh_plane_Details.b3f2f02910809d447d35.png",
+    "static/media/013.png": "/static/media/013.0cc590420028cf9e680f.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/012.png": "/static/media/012.2c4482a20a568826896b.png",
     "static/media/skyhigh_fuel_order_List.png": "/static/media/skyhigh_fuel_order_List.ead7e9b4e8d6a480540a.png",
-    "static/media/skyhigh_orderfuel.png": "/static/media/skyhigh_orderfuel.d52df716fa99e9a3fdc0.png",
+    "static/media/014.png": "/static/media/014.55b615fe971a3b69a6e2.png",
     "static/media/skyhigh_weather.png": "/static/media/skyhigh_weather.dce7e679fea142e99e0f.png",
+    "static/media/011.png": "/static/media/011.64e5bc17aeb993e7ee93.png",
     "static/media/skyhigh_relationships-11.png": "/static/media/skyhigh_relationships-11.c95dac94d3690d6b3cd5.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -36,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.851e7e77.css",
-    "static/js/main.1866fcad.js"
+    "static/js/main.090e63f9.js"
   ]
 }
