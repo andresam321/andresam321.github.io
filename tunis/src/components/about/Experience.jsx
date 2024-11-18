@@ -2,13 +2,19 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   2024 - Present",
+    year: "   2022 - Present",
     position: "Full-Stack Developer (SkyHighOps Aviation)",
-    compnayName: "Personal Project",
-    details: `Developed a web application to streamline aircraft management. 
-The system allows employees to efficiently assign and unassign planes from parking spots, 
-add and manage plane owners, and send fuel requests to line service technicians, 
-improving operational efficiency and organization.`,
+    compnayName: "Rabbit Aviation",
+    details: `Developed a comprehensive web application to streamline aircraft management and enhance 
+operational workflows for small to mid-sized airports. The system allows employees to dynamically 
+assign and unassign planes from parking spots, add and manage detailed information about aircraft owners, 
+and send, track, and update fuel requests with statuses like “en route,” “complete,” or “done.” 
+Integrated the FlightAware AeroAPI and Weather API to provide real-time airport weather conditions 
+and aircraft flight statuses, improving planning and response times. 
+Additionally, implemented a fuel tank monitoring system with visual gauges to track fuel levels 
+and alert for refills, optimizing inventory management. Migrated the database from MongoDB to PostgreSQL 
+to enhance data integrity and scalability, leveraging SQLAlchemy and AWS for efficient cloud-based workflows. 
+These enhancements significantly improve operational efficiency, reduce confusion, and streamline critical processes.`,
   },
   {
     year: "2023 - 2024",
