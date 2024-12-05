@@ -4,7 +4,9 @@ import Education from "./Education";
 import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
-import cv from "../../assets/img/AndresResume.pdf";
+import cv1 from "../../assets/img/andres_mercado_fullstack_resume.pdf";
+import cv2 from "../../assets/img/andres_mercado_backend_resume.pdf";
+import cv3 from "../../assets/img/andres_mercado_frontend_resume.pdf";
 import heroImgMobile from "../../assets/img/hero/am_pic.jpg";
 
 const index = () => {
@@ -38,8 +40,20 @@ const index = () => {
               {/* End personal info */}
 
               <div className="col-12 mt-1">
-                <a className="button" href={cv} download>
-                  <span className="button-text">Download CV</span>
+                <a className="button" href={cv1} download>
+                  <span className="button-text">FullStack Resume</span>
+                  <span className="button-icon fa fa-download"></span>
+                </a>
+              </div>
+              <div className="col-12 mt-1">
+                <a className="button" href={cv2} download>
+                  <span className="button-text">Backend Resume</span>
+                  <span className="button-icon fa fa-download"></span>
+                </a>
+              </div>
+              <div className="col-12 mt-1">
+                <a className="button" href={cv3} download>
+                  <span className="button-text">Frontend Resume</span>
                   <span className="button-icon fa fa-download"></span>
                 </a>
               </div>
