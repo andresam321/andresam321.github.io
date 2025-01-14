@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.851e7e77.css",
-    "main.js": "/static/js/main.b78eaece.js",
+    "main.js": "/static/js/main.dba24e60.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/plan_r_US_login.png": "/static/media/plan_r_US_login.92fce6f24224dfc068fe.png",
     "static/media/wuber_eats_food_details.png": "/static/media/wuber_eats_food_details.f1c93a1bed9e8b13908d.png",
@@ -39,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.851e7e77.css",
-    "static/js/main.b78eaece.js"
+    "static/js/main.dba24e60.js"
   ]
 }

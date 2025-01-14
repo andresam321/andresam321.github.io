@@ -10,12 +10,8 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "Andres Mercado",
   heroDesignation: "Software Engineer",
-  heroDescriptions: `I am an American with a rich Mexican heritage, 
-  working as a dedicated full-stack web application developer. 
-  Born in the United States to Mexican parents, 
-  I embrace a blend of cultures that fuels my creativity and problem-solving skills. 
-  With expertise in front-end and back-end technologies, 
-  I thrive on turning complex challenges into elegant solutions.`,
+  heroDescriptions: `I am a full-stack web developer with a rich blend of American and Mexican heritage that inspires my creativity and problem-solving approach. With expertise in both front-end and back-end technologies, 
+  I specialize in transforming complex challenges into user-friendly, efficient solutions. My cultural background and dedication drive my ability to craft impactful applications that make a difference.`,
   heroBtn: "more about me",
 };
 
