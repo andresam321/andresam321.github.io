@@ -18,7 +18,7 @@ const Portfolio = () => {
         <Tabs>
           <TabList className="portfolio-tab-list" data-aos="fade-up">
             <Tab>ALL</Tab>
-            <Tab>SkyHighOps Aviation</Tab>
+            <Tab>AeroSkyOps</Tab>
             <Tab>Plan r Us</Tab>
             <Tab>Wuber Eats</Tab>
             {/* <Tab>MOCKUP</Tab> */}

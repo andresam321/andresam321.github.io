@@ -1,15 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.851e7e77.css",
-    "main.js": "/static/js/main.dba24e60.js",
+    "main.js": "/static/js/main.f2055241.js",
     "static/js/206.c7ebfab1.chunk.js": "/static/js/206.c7ebfab1.chunk.js",
     "static/media/plan_r_US_login.png": "/static/media/plan_r_US_login.92fce6f24224dfc068fe.png",
     "static/media/wuber_eats_food_details.png": "/static/media/wuber_eats_food_details.f1c93a1bed9e8b13908d.png",
-    "static/media/skyhigh_login.png": "/static/media/skyhigh_login.5d93e8c7cbfc46e66afa.png",
     "static/media/wuberEats.png": "/static/media/wuberEats.16c956a50a9a19394e8c.png",
     "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/sky_wireframe.png": "/static/media/sky_wireframe.c729820f9240fd336ce4.png",
-    "static/media/skyhigh_homepage.png": "/static/media/skyhigh_homepage.c6de56d717c908272a46.png",
+    "static/media/Login_page.png": "/static/media/Login_page.e70f42e75457ad02f37c.png",
     "static/media/013.png": "/static/media/013.0cc590420028cf9e680f.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/012.png": "/static/media/012.2c4482a20a568826896b.png",
@@ -17,12 +16,14 @@
     "static/media/014.png": "/static/media/014.55b615fe971a3b69a6e2.png",
     "static/media/skyhigh_weather.png": "/static/media/skyhigh_weather.dce7e679fea142e99e0f.png",
     "static/media/011.png": "/static/media/011.64e5bc17aeb993e7ee93.png",
+    "static/media/01.png": "/static/media/01.f8c8d4ff1309c93cce71.png",
     "static/media/skyhigh_relationships-11.png": "/static/media/skyhigh_relationships-11.c95dac94d3690d6b3cd5.png",
     "static/media/andres_mercado_backend_resume.pdf": "/static/media/andres_mercado_backend_resume.8af025c7aeb27eeb5d2a.pdf",
     "static/media/andres_mercado_fullstack_resume.pdf": "/static/media/andres_mercado_fullstack_resume.daf8a457f6fc267d90ce.pdf",
     "static/media/andres_mercado_frontend_resume.pdf": "/static/media/andres_mercado_frontend_resume.c6fed726a2dbbaa567ef.pdf",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/07_All_Tanks.png": "/static/media/07_All_Tanks.c90e1f3fd1812ac93a50.png",
     "static/media/404.jpg": "/static/media/404.19e523cdb4d4a12db938.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
@@ -39,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.851e7e77.css",
-    "static/js/main.dba24e60.js"
+    "static/js/main.f2055241.js"
   ]
 }

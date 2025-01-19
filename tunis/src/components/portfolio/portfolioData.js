@@ -8,11 +8,12 @@ import Image7 from "../../assets/img/portfolio/project-7.jpg";
 import Image8 from "../../assets/img/portfolio/project-8.jpg";
 import Image9 from "../../assets/img/portfolio/project-9.jpg";
 import Image10 from "../../assets/img/portfolio/sky_wireframe.png";
-import Image11 from "../../assets/img/portfolio/skyhigh_login.png";
-import Image12 from "../../assets/img/portfolio/skyhigh_homepage.png";
+import Image11 from "../../assets/img/portfolio/Login_page.png";
+import Image12 from "../../assets/img/portfolio/01.png";
 import Image13 from "../../assets/img/portfolio/skyhigh_weather.png";
 import Image14 from "../../assets/img/portfolio/011.png";
 import Image15 from "../../assets/img/portfolio/012.png";
+import Image01 from "../../assets/img/portfolio/07_All_Tanks.png";
 import Image16 from "../../assets/img/portfolio/014.png";
 import Image17 from "../../assets/img/portfolio/skyhigh_fuel_order_List.png";
 import Image18 from "../../assets/img/portfolio/plan_r_US_login.png";
@@ -97,8 +98,8 @@ const PortfolioData = [
         project: "Web Application",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, Postgres, React, Redux, AWS, Docker",
-        preview: "https://github.com/andresam321/SkyHighOps/wiki/Database-Schema",
-        link: "https://github.com/andresam321/SkyHighOps/wiki/Database-Schema",
+        preview: "https://github.com/andresam321/AeroSkyOps/wiki/Database-Schema",
+        link: "https://github.com/andresam321/AeroSkyOps/wiki/Database-Schema",
       },
     ],
   },
@@ -113,8 +114,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "Balsamiq",
-        preview: "https://github.com/andresam321/SkyHighOps/wiki/SkyHighOps-WireFrame",
-        link: "https://github.com/andresam321/SkyHighOps/wiki/SkyHighOps-WireFrame",
+        preview: "https://github.com/andresam321/AeroSkyOps/wiki/AeroSkyOps-WireFrame",
+        link: "https://github.com/andresam321/AeroSkyOps/wiki/AeroSkyOps-WireFrame",
       },
     ],
   },
@@ -129,8 +130,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
@@ -145,8 +146,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
@@ -161,8 +162,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
@@ -177,8 +178,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
@@ -193,8 +194,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
@@ -209,8 +210,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
@@ -225,8 +226,8 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
@@ -241,8 +242,24 @@ const PortfolioData = [
         project: "Website",
         Target: "Airports",
         language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
-        preview: "https://skyhighops.onrender.com",
-        link: "https://skyhighops.onrender.com",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
+      },
+    ],
+  },
+  {
+    id: 13,
+    type: "Fuel Tank Levels",
+    image: Image01,
+    tag: ["logo"],
+    delayAnimation: "0",
+    modalDetails: [
+      {
+        project: "Website",
+        Target: "Airports",
+        language: "HTML, CSS, JS, Python, Flask, SQLite, SqlAlchemy Postgres, React, Redux, AWS, Docker",
+        preview: "https://www.aeroskyops.com/",
+        link: "https://www.aeroskyops.com/",
       },
     ],
   },
