@@ -1,44 +1,41 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef } from "react";
 
 export default function ScrollToTop() {
-  const [isVisible, setIsVisible] = useState(false);
-
-  // Top: 0 takes us all the way back to the top of the page
-  // Behavior: smooth keeps it smooth!
-  const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
-  };
+  const isVisible = useRef(false);
+  const buttonRef = useRef(null); // Reference for the button
 
   useEffect(() => {
-    // Button is displayed after scrolling for 500 pixels
     const toggleVisibility = () => {
-      if (window.pageYOffset > 500) {
-        setIsVisible(true);
-      } else {
-        setIsVisible(false);
+      const shouldBeVisible = window.pageYOffset > 500;
+      if (shouldBeVisible !== isVisible.current) {
+        isVisible.current = shouldBeVisible;
+        if (buttonRef.current) {
+          buttonRef.current.style.display = shouldBeVisible ? "block" : "none";
+        }
       }
     };
 
-    window.addEventListener("scroll", toggleVisibility);
+    // Attach event listener
+    window.addEventListener("scroll", toggleVisibility, { passive: true });
 
-    return () => window.removeEventListener("scroll", toggleVisibility);
+    return () => {
+      // Cleanup listener when component unmounts
+      window.removeEventListener("scroll", toggleVisibility);
+    };
   }, []);
 
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
-    <>
-      {isVisible && (
-        <div
-          onClick={scrollToTop}
-          className="scroll_up my_totop"
-          data-aos="fade-left"
-          data-aos-duration="1200"
-        >
-          <span className="beny_tm_totop"></span>
-        </div>
-      )}
-    </>
+    <div
+      ref={buttonRef}
+      onClick={scrollToTop}
+      className="scroll_up my_totop"
+      style={{ display: "none" }} // Initially hidden
+    >
+      <span className="beny_tm_totop"></span>
+    </div>
   );
 }

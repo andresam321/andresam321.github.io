@@ -4,7 +4,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
-import cv1 from "../../assets/img/AndresMercado_fullstack_resume.pdf";
+import cv1 from "../../assets/img/AndresMercado_full-stack_resume.pdf";
 import cv2 from "../../assets/img/AndresMercado_backend_resume.pdf";
 import cv3 from "../../assets/img/AndresMercado_frontend_resume.pdf";
 import heroImgMobile from "../../assets/img/hero/am_pic.jpg";
