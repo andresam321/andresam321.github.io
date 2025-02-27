@@ -5,29 +5,28 @@ const experienceContent = [
     year: "2022 - Present",
     position: "Full-Stack Software Engineer (AeroSkyOps Aviation)",
     companyName: "Rabbit Aviation",
-    details: `I built a full-stack airplane management system designed to modernize aircraft operations for small to mid-sized airports. The system digitizes manual workflows, improving efficiency and reducing errors. Employees can dynamically assign and unassign aircraft parking spots, ensuring accurate record-keeping and historical tracking for better space utilization.
+    details: `I built AeroSkyOps Aviation, a full-stack airplane management system designed to streamline aircraft operations for small to mid-sized airports. The system digitizes manual workflows, improving efficiency and reducing errors. Employees can dynamically assign and unassign aircraft parking spots, ensuring accurate record-keeping and better space utilization.
 
-To enhance fuel management, I developed a fuel request system that allows employees to send, track, and update fuel requests with statuses like “en route,” “complete,” and “done.” I also integrated the FlightAware AeroAPI and Weather API, providing real-time access to airport weather conditions and aircraft statuses for improved operational decision-making. Additionally, I implemented a fuel tank monitoring system with visual gauges to track fuel levels, trigger refill alerts, and optimize inventory management.
+To enhance fuel management, I developed a fuel request system that allows employees to send, track, and update requests with statuses like “en route,” “complete,” and “done.” I also integrated the FlightAware AeroAPI and Weather API, providing real-time airport weather conditions and aircraft statuses for improved operational decision-making. Additionally, I implemented a fuel tank monitoring system where users manually log fuel levels, which visually displays remaining capacity and triggers alerts when refills are needed.
 
-For scalability and performance, I migrated the database from MongoDB to PostgreSQL, leveraging SQLAlchemy to improve relational data handling. The system also utilizes AWS S3 for secure image storage, and I containerized the application using Docker, deploying it on AWS EC2 with Nginx & TLS encryption to ensure security and high availability.
+For scalability and performance, I migrated the database from MongoDB to PostgreSQL, leveraging SQLAlchemy for structured data handling. The system also utilizes AWS S3 for secure image storage, and I containerized the application using Docker, deploying it on AWS EC2 with Nginx & TLS encryption for security and high availability. On the frontend, I integrated Redux to optimize state management, reducing unnecessary re-renders and improving UI responsiveness.
 
-On the frontend, I integrated Redux to optimize state management, reducing unnecessary re-renders and enhancing UI responsiveness. The user interface, built with React & CSS, delivers a seamless experience with intuitive workflows.
-
-🚀 Impact: This system transformed airport operations, eliminating manual tracking, reducing errors, and improving overall efficiency, resulting in a more structured and streamlined aviation management solution.`
+This system replaces manual tracking with a centralized digital workflow, improving accuracy and operational efficiency.`
   },
   {
     year: "2023 - 2024",
-    position: "Full-Stack Software Engineer (Wuber Eats)",
+    position: "Full-Stack Software Engineer (Wuber Eats – App Academy Project)",
     companyName: "Personal Project",
-    details: `Wuber Eats is a full-stack web application inspired by Uber Eats, allowing users to browse restaurants, view menus, add items to their cart, and leave reviews. Users can also create and manage restaurant listings, offering a dynamic restaurant discovery and management experience.
+    details: `Wuber Eats is a full-stack web application inspired by Uber Eats, designed as part of my App Academy training to enhance my skills in full-stack development and Agile collaboration.
 
-The backend was built using a RESTful API with Flask, handling restaurant data, user authentication, and order processing. The frontend features a Redux-managed shopping cart, enabling smooth item additions, updates, and removals. For data storage, I implemented PostgreSQL, optimizing query performance and ensuring structured data management.
+Users can browse restaurants, view menus, add items to their cart, and leave reviews. The system allows restaurant owners to manage their own listings, update menus, and receive customer feedback, providing a dynamic restaurant discovery and management experience.
 
-This project was developed in an Agile team environment, where we conducted daily sprints, stand-up meetings, and iterative development cycles to continuously refine features and resolve blockers. I collaborated closely with teammates to ensure seamless backend-to-frontend integration, conducted code reviews, and contributed to feature planning.
+On the backend, I built a Flask REST API to handle restaurant data, user authentication, and order processing, while PostgreSQL ensures structured and optimized data storage. 
+The frontend uses Redux for a smooth shopping cart experience, allowing real-time item additions, updates, and removals. I also integrated Cloudinary for optimized image storage, reducing load times and improving performance.
 
-To enhance the user experience, I integrated Cloudinary for optimized image storage, reducing load times and ensuring seamless performance. The application was designed with a fully responsive UI using React and CSS, making it mobile-friendly and intuitive.
+This project was developed in an Agile environment, where I collaborated with a team, participating in daily sprints, stand-up meetings, and iterative development cycles to continuously refine features and resolve blockers.
 
-🚀 Impact: Wuber Eats showcases my ability to develop interactive, scalable web applications in a collaborative Agile environment, combining efficient backend processing with a seamless user experience.`
+`
   }
 ];
 
