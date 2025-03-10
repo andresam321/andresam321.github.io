@@ -3,15 +3,18 @@ import React from "react";
 const experienceContent = [
   {
     year: "2022 - Present",
-    position: "Full-Stack Software Engineer (AeroSkyOps Aviation)",
+    position: "Full-Stack Software Engineer (AeroSkyOps Project)",
     companyName: "Rabbit Aviation",
-    details: `I built AeroSkyOps Aviation, a full-stack airplane management system designed to streamline aircraft operations for small to mid-sized airports. The system digitizes manual workflows, improving efficiency and reducing errors. Employees can dynamically assign and unassign aircraft parking spots, ensuring accurate record-keeping and better space utilization.
+    details: `I built AeroSkyOps Aviation, a full-stack airplane management system designed to streamline aircraft operations for small to mid-sized airports by replacing outdated manual workflows with a structured, digital solution. The system enhances efficiency, improves record-keeping, and reduces errors in key airport operations.  
 
-To enhance fuel management, I developed a fuel request system that allows employees to send, track, and update requests with statuses like “en route,” “complete,” and “done.” I also integrated the FlightAware AeroAPI and Weather API, providing real-time airport weather conditions and aircraft statuses for improved operational decision-making. Additionally, I implemented a fuel tank monitoring system where users manually log fuel levels, which visually displays remaining capacity and triggers alerts when refills are needed.
+Employees can dynamically assign and unassign aircraft parking spots, ensuring accurate tracking and optimized space utilization. To improve fuel management, I developed a fuel request system that allows staff to submit, track, and update orders with status changes such as “En Route,” “Complete,” and “Done.” These updates are reflected dynamically in the UI, improving tracking and coordination for airport staff. Additionally, I integrated the FlightAware AeroAPI and Weather API, providing near-live flight tracking and real-time weather updates to support better operational decision-making.  
 
-For scalability and performance, I migrated the database from MongoDB to PostgreSQL, leveraging SQLAlchemy for structured data handling. The system also utilizes AWS S3 for secure image storage, and I containerized the application using Docker, deploying it on AWS EC2 with Nginx & TLS encryption for security and high availability. On the frontend, I integrated Redux to optimize state management, reducing unnecessary re-renders and improving UI responsiveness.
+To further optimize fuel operations, I designed a fuel tank monitoring system where users manually log fuel levels, visually displaying remaining capacity and triggering alerts when refills are needed. I also implemented an aircraft parking history system, enabling employees to review and reference past assignments efficiently.  
 
-This system replaces manual tracking with a centralized digital workflow, improving accuracy and operational efficiency.`
+For scalability and performance, I migrated the database from MongoDB to PostgreSQL, leveraging SQLAlchemy for structured data handling and improving data integrity. The system utilizes AWS S3 for secure image storage, and I containerized the application using Docker, deploying it on AWS EC2 with Nginx & TLS encryption for security and high availability. On the frontend, I integrated Redux to optimize state management, reducing unnecessary re-renders and improving UI responsiveness.  
+
+This system digitizes and centralizes critical airport operations, replacing inefficient tracking methods with a modern, scalable, and reliable solution that improves accuracy and enhances efficiency across airport workflows.  
+`
   },
   {
     year: "2023 - 2024",
